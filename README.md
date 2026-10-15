@@ -1,12 +1,16 @@
-# OpenRX Mono
+<p align="center">
+  <img src="images/droneaid-logo.svg" width="154" height="30" alt="DroneAid" />
+</p>
 
-Open-source dual-band ExpressLRS receiver for FPV aircraft. OpenRX Mono uses an
+# DroneAid OpenRX Mono
+
+DroneAid OpenRX Mono is an open-source dual-band ExpressLRS receiver for FPV aircraft. It uses an
 ESP32-C3 and one LR1121 with a 2.4 GHz PA/LNA, sub-GHz matching network and a
 shared U.FL antenna interface.
 
 <p>
-<img src="images/front.png" width="400" alt="OpenRX Mono front" />
-<img src="images/back.png" width="400" alt="OpenRX Mono back" />
+<img src="images/front.png" width="400" alt="DroneAid OpenRX Mono front" />
+<img src="images/back.png" width="400" alt="DroneAid OpenRX Mono back" />
 </p>
 
 [![Status](https://img.shields.io/endpoint?url=https://opendrone.be/api/status/OpenRX-Mono.json)](https://github.com/OpenDrone-hw/.github/blob/main/CONTRIBUTING.md#the-life-of-a-project)

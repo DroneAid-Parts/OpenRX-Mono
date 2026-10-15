@@ -1,4 +1,4 @@
-# OpenRX Mono
+# DroneAid OpenRX Mono
 
 Open-source dual-band ExpressLRS receiver. An ESP32-C3 controls one LR1121;
 2.4 GHz and sub-GHz RF paths share one U.FL antenna through an RF switch. A
